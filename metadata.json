@@ -1,0 +1,6 @@
+{
+  "name": "SizzleBite Fast Food",
+  "description": "Modern fast food restaurant website with interactive menu, multi-item cart, and instant WhatsApp online ordering system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
